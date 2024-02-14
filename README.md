@@ -15,11 +15,11 @@ Requirements:
 
 Instructions:
 
-    Clone or download the repository.
-    Open a terminal or command prompt in the project directory.
-    Run the script using python hasherpy.py.
-    Follow the on-screen instructions to enter a string and choose a hashing algorithm.
-    The script will print the resulting hash along with the original string.
+    Clone or download the repository
+    Open a terminal or command prompt in the project directory
+    Run the script using python hasherpy.py
+    Follow the on-screen instructions to enter a string and choose a hashing algorithm
+    The script will print the resulting hash along with the original string
     Press ENTER to exit.
 
 Additional Notes:
